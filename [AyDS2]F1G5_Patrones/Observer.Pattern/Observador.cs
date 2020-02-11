@@ -18,20 +18,23 @@ namespace _AyDS2_F1G5_Patrones.Observer.Pattern
 
         public Observador(string titulo)
         {
-            this.Width = 400;
-            this.Height = 400;
             this.Text = titulo;
+            this.Size = new Size(400, 400);
+            this.ControlBox = false;
             jugadores = new List<Jugador>();
 
 
 
             txtResult = new TextBox();
             txtResult.Name = "txtREsult";
-            txtResult.Text = "helloo";
+            txtResult.Text = "";
             txtResult.Multiline = true;
-            txtResult.Width = 300;
-            txtResult.Height = 300;
-            txtResult.Location = new Point(50, 50);
+            txtResult.ScrollBars  = ScrollBars.Vertical;
+            txtResult.AcceptsReturn = true;
+            txtResult.AcceptsTab = true;
+            txtResult.WordWrap = true;
+            txtResult.Location = new Point(40, 10);
+            txtResult.Size = new Size(300, 300);
             this.Controls.Add(txtResult);
         }
     }

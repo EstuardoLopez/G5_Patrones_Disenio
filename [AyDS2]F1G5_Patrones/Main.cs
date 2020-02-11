@@ -36,6 +36,9 @@ namespace _AyDS2_F1G5_Patrones
             sujeto.setLiga(liga);
             visorPosicion.Show();
             visorEquipo.Show();
+
+            cbxEquipo.SelectedIndex = 0;
+            cbxPosicion.SelectedIndex = 0;
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -47,9 +50,12 @@ namespace _AyDS2_F1G5_Patrones
         private void button2_Click(object sender, EventArgs e)
         {
             string nombre = txtNombre.Text;
-            string dorsal = txtDorsal.Text;
+            //string dorsal = txtDorsal.Text;
             string equipo = cbxEquipo.Text; 
             string posicion = cbxPosicion.Text;
+
+            var dorsal = String.IsNullOrEmpty(this.txtDorsal.Text) ? Convert.ToInt32("0") : Convert.ToInt32(this.txtDorsal.Text);
+
 
             if (equipo.ToUpper().Equals("BARCELONA"))
             {

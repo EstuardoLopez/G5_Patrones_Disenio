@@ -12,6 +12,7 @@ namespace _AyDS2_F1G5_Patrones.Strategy.Pattern
         public int Edad;
         public string tipo;
         public int dorsal;
+        public string posicion;
 
         public void correr()
         {

@@ -29,6 +29,7 @@ namespace _AyDS2_F1G5_Patrones.Strategy.Pattern
             jugador.Edad = edad;
             jugador.tipo = tipo;
             jugador.dorsal = dorsal;
+            jugador.tipo = tipo.ToUpper();
             plantilla.Add(jugador);
         }
 
