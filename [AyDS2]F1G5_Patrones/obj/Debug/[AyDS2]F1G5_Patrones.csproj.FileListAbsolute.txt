@@ -1,0 +1,9 @@
+C:\Users\Latitude 5590\source\repos\[AyDS2]F1G5_Patrones\[AyDS2]F1G5_Patrones\bin\Debug\[AyDS2]F1G5_Patrones.exe.config
+C:\Users\Latitude 5590\source\repos\[AyDS2]F1G5_Patrones\[AyDS2]F1G5_Patrones\bin\Debug\[AyDS2]F1G5_Patrones.exe
+C:\Users\Latitude 5590\source\repos\[AyDS2]F1G5_Patrones\[AyDS2]F1G5_Patrones\bin\Debug\[AyDS2]F1G5_Patrones.pdb
+C:\Users\Latitude 5590\source\repos\[AyDS2]F1G5_Patrones\[AyDS2]F1G5_Patrones\obj\Debug\[AyDS2]F1G5_Patrones.csprojAssemblyReference.cache
+C:\Users\Latitude 5590\source\repos\[AyDS2]F1G5_Patrones\[AyDS2]F1G5_Patrones\obj\Debug\_AyDS2_F1G5_Patrones.Properties.Resources.resources
+C:\Users\Latitude 5590\source\repos\[AyDS2]F1G5_Patrones\[AyDS2]F1G5_Patrones\obj\Debug\[AyDS2]F1G5_Patrones.csproj.GenerateResource.cache
+C:\Users\Latitude 5590\source\repos\[AyDS2]F1G5_Patrones\[AyDS2]F1G5_Patrones\obj\Debug\[AyDS2]F1G5_Patrones.exe
+C:\Users\Latitude 5590\source\repos\[AyDS2]F1G5_Patrones\[AyDS2]F1G5_Patrones\obj\Debug\[AyDS2]F1G5_Patrones.pdb
+C:\Users\Latitude 5590\source\repos\[AyDS2]F1G5_Patrones\[AyDS2]F1G5_Patrones\obj\Debug\_AyDS2_F1G5_Patrones.Main.resources

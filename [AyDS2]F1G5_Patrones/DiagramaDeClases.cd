@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_AyDS2_F1G5_Patrones.Strategy.Pattern.Equipo">
+    <Position X="4.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>ABAAAICAAAAAAQCAABAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Strategy.Pattern\Equipo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_AyDS2_F1G5_Patrones.Strategy.Pattern.EquipoBarcelona" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Strategy.Pattern\EquipoBarcelona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_AyDS2_F1G5_Patrones.Strategy.Pattern.EquipoRealMadrid" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Strategy.Pattern\EquipoRealMadrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_AyDS2_F1G5_Patrones.Strategy.Pattern.Jugador">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAgAAAIAAAAAAAhAAAAAAAAgCAAAAgAAAAAAA=</HashCode>
+      <FileName>Strategy.Pattern\Jugador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_AyDS2_F1G5_Patrones.Strategy.Pattern.JugadorDefensa">
+    <Position X="13.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Strategy.Pattern\JugadorDefensa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_AyDS2_F1G5_Patrones.Strategy.Pattern.JugadorDelantero">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Strategy.Pattern\JugadorDelantero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_AyDS2_F1G5_Patrones.Strategy.Pattern.JugadorMedioCampo">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Strategy.Pattern\JugadorMedioCampo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_AyDS2_F1G5_Patrones.Strategy.Pattern.JugadorPortero">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAgAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Strategy.Pattern\JugadorPortero.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_AyDS2_F1G5_Patrones.Strategy.Pattern.Liga">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACEAAAAAAAAAAAAAAAAAAAAAABAQAA=</HashCode>
+      <FileName>Strategy.Pattern\Liga.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_AyDS2_F1G5_Patrones.Observer.Pattern.Sujeto">
+    <Position X="1" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAQAIARAAAAA=</HashCode>
+      <FileName>Observer.Pattern\Sujeto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_AyDS2_F1G5_Patrones.Observer.Pattern.Observador">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAQAAAACAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Observer.Pattern\Observador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_AyDS2_F1G5_Patrones.Observer.Pattern.VisorPorEquipo">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Observer.Pattern\VisorPorEquipo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_AyDS2_F1G5_Patrones.Observer.Pattern.VisorPorPosicion">
+    <Position X="6.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Observer.Pattern\VisorPorPosicion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_AyDS2_F1G5_Patrones.Factory.Pattern.JugadorFabrica">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory.Pattern\JugadorFabrica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
